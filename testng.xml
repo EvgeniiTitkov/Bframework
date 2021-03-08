@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel ="tests">
+<listeners>
+<listener class-name="BFramework.Listeners"/>
+</listeners>
+	<test name="mainPageTest">
+		<classes>
+			<class name="BFramework.mainPageTest" />
+		</classes>
+	</test>
+	
+	<test name="loginPageTest">
+		<classes>
+			<class name="BFramework.loginPageTest" />
+		</classes>
+	</test>
+	
+	<test name="challengingDomTest">
+		<classes>
+			<class name="BFramework.challengingDomTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

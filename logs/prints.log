@@ -1,0 +1,25 @@
+13:06:31.265 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Able to login with wrong credentials. Passed.
+13:07:10.421 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+13:07:10.421 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+13:07:10.421 [TestNG-tests-3] INFO  BFramework.mainPage - Driver is initialized
+13:07:10.428 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+13:07:10.428 [TestNG-tests-3] INFO  BFramework.mainPage - Navigated to home page
+13:07:10.428 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+13:07:14.893 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Unable to login with wrong credentials. Passed.
+13:07:15.646 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+13:07:15.650 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+13:07:16.676 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+13:07:16.677 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+13:07:20.195 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Able to login with wrong credentials. Passed.
+13:07:41.712 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+13:07:41.712 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+13:07:41.722 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+13:07:41.711 [TestNG-tests-3] INFO  BFramework.mainPage - Driver is initialized
+13:07:41.724 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+13:07:41.724 [TestNG-tests-3] INFO  BFramework.mainPage - Navigated to home page
+13:07:45.743 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Unable to login with wrong credentials. Passed.
+13:07:46.279 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+13:07:46.279 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+13:07:48.583 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+13:07:48.585 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+13:07:51.218 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Able to login with wrong credentials. Passed.

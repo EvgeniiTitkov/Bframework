@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="BFramework.Listeners"/>
+  </listeners>
+  <test name="challengingDomTest(failed)" parallel="tests">
+    <classes>
+      <class name="BFramework.mainPageTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="initialDriver"/>
+        </methods>
+      </class> <!-- BFramework.mainPageTest -->
+      <class name="BFramework.loginPageTest">
+        <methods>
+          <include name="initialDriver"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- BFramework.loginPageTest -->
+      <class name="BFramework.challengingDomTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="initialDriver"/>
+          <include name="blueButton"/>
+        </methods>
+      </class> <!-- BFramework.challengingDomTest -->
+    </classes>
+  </test> <!-- challengingDomTest(failed) -->
+  <test name="loginPageTest(failed)" parallel="tests">
+    <classes>
+      <class name="BFramework.mainPageTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="initialDriver"/>
+        </methods>
+      </class> <!-- BFramework.mainPageTest -->
+      <class name="BFramework.loginPageTest">
+        <methods>
+          <include name="login" invocation-numbers="0 1"/>
+          <include name="initialDriver"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- BFramework.loginPageTest -->
+      <class name="BFramework.challengingDomTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="initialDriver"/>
+        </methods>
+      </class> <!-- BFramework.challengingDomTest -->
+    </classes>
+  </test> <!-- loginPageTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

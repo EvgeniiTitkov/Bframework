@@ -1,0 +1,47 @@
+10:47:24.459 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+10:47:24.459 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+10:47:24.459 [TestNG-tests-3] INFO  BFramework.mainPage - Navigated to home page
+10:47:27.284 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Unable to login with wrong credentials. Passed.
+10:47:30.191 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+10:47:30.193 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+10:47:30.242 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+10:47:30.243 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+10:47:34.642 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Able to login with wrong credentials. Passed.
+11:19:31.560 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+11:19:31.560 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+11:19:31.560 [TestNG-tests-3] INFO  BFramework.mainPage - Driver is initialized
+11:19:31.568 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+11:19:31.568 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+11:19:31.568 [TestNG-tests-3] INFO  BFramework.mainPage - Navigated to home page
+11:19:35.241 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Unable to login with wrong credentials. Passed.
+11:19:35.588 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+11:19:35.601 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+11:19:37.846 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+11:19:37.846 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+11:19:40.667 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Able to login with wrong credentials. Passed.
+12:55:54.281 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+12:55:54.281 [TestNG-tests-3] INFO  BFramework.mainPage - Driver is initialized
+12:55:54.281 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+12:57:11.753 [TestNG-tests-3] INFO  BFramework.mainPage - Driver is initialized
+12:57:11.753 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+12:57:11.753 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+12:57:11.760 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+12:57:11.760 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+12:57:11.760 [TestNG-tests-3] INFO  BFramework.mainPage - Navigated to home page
+12:57:16.723 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Unable to login with wrong credentials. Passed.
+12:57:16.904 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+12:57:16.904 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+12:57:18.297 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+12:57:18.297 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+12:57:21.868 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Able to login with wrong credentials. Passed.
+13:06:22.576 [TestNG-tests-3] INFO  BFramework.mainPage - Driver is initialized
+13:06:22.576 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+13:06:22.576 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+13:06:22.584 [TestNG-tests-3] INFO  BFramework.mainPage - Navigated to home page
+13:06:22.584 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
+13:06:22.585 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+13:06:25.695 [TestNG-tests-2] INFO  BFramework.mainPage - Assert: Unable to login with wrong credentials. Passed.
+13:06:28.383 [TestNG-tests-1] INFO  BFramework.mainPage - Driver is initialized
+13:06:28.384 [TestNG-tests-1] INFO  BFramework.mainPage - Navigated to home page
+13:06:28.565 [TestNG-tests-2] INFO  BFramework.mainPage - Driver is initialized
+13:06:28.566 [TestNG-tests-2] INFO  BFramework.mainPage - Navigated to home page
